@@ -1,7 +1,7 @@
 # Discord Quest Helper
 
 This project is for testing purposes only.  
-Do not run this on your main Discord account. Using it on live accounts can get you banned or suspended.*
+Do not run this on your main Discord account. Using it on live accounts can get you banned or suspended.
 
 ![LATEST](https://raw.githubusercontent.com/sanudisht/discord-quest-helper/1fd97d9896ecbb9355166f0fb8ec92061ea2bbbe/images/latest.svg)
 
