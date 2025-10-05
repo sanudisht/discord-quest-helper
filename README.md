@@ -9,7 +9,7 @@ Do not run this on your main Discord account. Using it on live accounts can get 
 
 [***You can get the latest version here.***](https://github.com/sanudisht/discord-quest-helper/blob/main/internal%2Fmain.js)
 
-## ADDITIONAL WARNINGS AND IMPORTANT NOTES:
+## WARNINGS AND IMPORTANT NOTES:
 
 **1) Use alternate accounts only**  
 Create and use separate alternate Discord accounts strictly for testing.  
