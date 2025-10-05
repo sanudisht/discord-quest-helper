@@ -1,7 +1,10 @@
 # Discord Quest Helper
 
-*WARNING: This project is for testing purposes only.  
+This project is for testing purposes only.  
 Do not run this on your main Discord account. Using it on live accounts can get you banned or suspended.*
+
+**Outdated READMe**
+![Outdated READMe](https://img.shields.io/badge/warning-action_required-yellow)
 
 **ADDITIONAL WARNINGS AND IMPORTANT NOTES:**
 
