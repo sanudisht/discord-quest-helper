@@ -9,6 +9,10 @@ Do not run this on your main Discord account. Using it on live accounts can get 
 
 [***You can get the latest version here.***](https://github.com/sanudisht/discord-quest-helper/blob/main/internal%2Fmain.js)
 
+## Archives:
+
+[***Archives aren't available at the moment.***](https://github.com/sanudisht/discord-quest-helper)
+
 ## WARNINGS AND NOTES:
 
 **1) Use alternate accounts only**  
