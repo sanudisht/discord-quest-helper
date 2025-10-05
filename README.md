@@ -3,7 +3,7 @@
 This project is for testing purposes only.  
 Do not run this on your main Discord account. Using it on live accounts can get you banned or suspended.*
 
-![Outdated READMe](https://img.shields.io/badge/warning-action_required-yellow)
+![Outdated READMe](https://raw.githubusercontent.com/sanudisht/discord-quest-helper/87f74e397a90f2c70780fee6d4e3aa63abcee04f/images/latest.svg)
 
 **ADDITIONAL WARNINGS AND IMPORTANT NOTES:**
 
