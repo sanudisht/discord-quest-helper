@@ -5,7 +5,7 @@ Do not run this on your main Discord account. Using it on live accounts can get 
 
 ![LATEST](https://raw.githubusercontent.com/sanudisht/discord-quest-helper/1fd97d9896ecbb9355166f0fb8ec92061ea2bbbe/images/latest.svg)
 
-![You can get the download here!](https://raw.githubusercontent.com/sanudisht/discord-quest-helper/1fd97d9896ecbb9355166f0fb8ec92061ea2bbbe/images/latest.svg)
+![You can get the download here!](https://github.com/sanudisht/discord-quest-helper/blob/main/internal%2Fmain.js)
 
 **ADDITIONAL WARNINGS AND IMPORTANT NOTES:**
 
